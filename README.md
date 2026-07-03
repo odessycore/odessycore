@@ -235,7 +235,7 @@ I enjoy building software that combines scalable engineering with modern AI.
 
 ---
 
-# 📌 Featured Projects
+# 📌 Projects I've Professionally Worked On
 
 ### 🧠 AI-Powered Analytics Platform
 
@@ -260,6 +260,8 @@ Developed machine learning pipelines for behavioral analytics and forecasting us
 Building modern AI applications powered by OpenAI, Anthropic, LangChain, LangGraph, CrewAI, and Retrieval-Augmented Generation (RAG) architectures.
 
 ---
+
+# Checkout some of my personal pojects on my Github -> 👇  
 
 # ⚙️ Engineering Principles
 
